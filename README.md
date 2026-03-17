@@ -4,7 +4,7 @@ live: https://polkproperties.ttdsm.org/
 
 the polk county assesor page is a favorite of mine
 
-there was an [axios article](https://discord.com/channels/905606844876206080/910557874403541043/1483461836056559719) talking about how the engineer who maintains it is retiring so they expect a site blackout while they work on getting a contract to rebuild it
+there was an [axios article](https://www.axios.com/local/des-moines/2026/03/17/polk-assessor-website-key-search-function-county) talking about how the engineer who maintains it is retiring so they expect a site blackout while they work on getting a contract to rebuild it
 
 we extracted the information avalible for download in csv format, loaded the parcle records into a table and the sale records into another
 
